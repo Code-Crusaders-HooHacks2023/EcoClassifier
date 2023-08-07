@@ -58,6 +58,19 @@ After uploading an image for classification, the app will provide the prediction
 
 The `/statistics` endpoint displays a Tableau published page that presents statistics about Municipal Solid Waste generation, recycling, and composting between the years 1960 and 2018. This data provides insights into the waste management practices and trends over the decades.
 
+- Solid Waste Generated
+	![Solid Waste Generated](images/s1.png)
+
+- Trends in Solid Waste Composted
+	![Trends in Solid Waste Composted](images/s2.png)
+
+- Solid Waste Combusted
+	![Solid Waste Combusted](images/s3.png)
+
+- Solid Waste Recycled
+	![Solid Waste Recycled](images/s4.png)
+
+
 ## App Structure
 
 - `app.py`: The main application script that defines the Flask routes and sets up the web interface.
@@ -80,12 +93,5 @@ Contributions to the Waste Classifier Flask App are welcome. If you encounter an
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [GPL-v3(LICENSE).
 
-## Contact
-
-For any inquiries or questions, please contact [your email address].
-
----
-
-*Note: Replace placeholders such as `<repository_url>`, `<repository_directory>`, and `[your email address]` with actual values.*
