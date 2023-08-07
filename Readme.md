@@ -93,5 +93,5 @@ Contributions to the Waste Classifier Flask App are welcome. If you encounter an
 
 ## License
 
-This project is licensed under the [GPL-v3(LICENSE).
+This project is licensed under the [GPL-v3](LICENSE).
 
